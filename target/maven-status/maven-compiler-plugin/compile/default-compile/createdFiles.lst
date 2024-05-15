@@ -1,0 +1,9 @@
+com\bhatman\proto\wordsearch\modules\WSResults.class
+com\bhatman\proto\wordsearch\modules\WSMatcher.class
+com\bhatman\proto\wordsearch\model\WSLineDetails.class
+com\bhatman\proto\wordsearch\modules\WSDictionary.class
+com\bhatman\proto\wordsearch\modules\WSFileReader.class
+com\bhatman\proto\wordsearch\model\WSPart.class
+com\bhatman\proto\wordsearch\WordSearch.class
+com\bhatman\proto\wordsearch\WordSearchApplication.class
+com\bhatman\proto\wordsearch\modules\WSAggregator.class
